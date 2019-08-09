@@ -1,0 +1,9 @@
+{
+  "name": "@clickbar/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier config used at clickbar.",
+  "main": "index.js",
+  "repository": "https://github.com/clickbar/prettier-config.git",
+  "author": "Alexander von Studnitz <alexander.von.studnitz@gmail.com>",
+  "license": "MIT"
+}
