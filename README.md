@@ -1,4 +1,6 @@
-# @clickbar/prettier-config
+# @clickbar/prettier-config (Deprecated)
+
+**This package was merged with our [ESLint config](https://github.com/clickbar/eslint-config) and is not needed anymore.**
 
 Opinionated prettier rules for work at clickbar.
 
